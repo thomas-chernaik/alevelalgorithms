@@ -53,7 +53,6 @@ arr2 = [random.randrange(0,100) for i in range(10)]
 print(bubbleSort(arr1))
 print(bubbleSort(arr2))
 
-
 print(mergeSort(arr1))
 print(mergeSort(arr2))
 
